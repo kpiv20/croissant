@@ -1,0 +1,17 @@
+h1{
+    text-align: center;
+}
+body{
+    background:#F8E8A6;
+}
+footer{
+    text-align: center;
+    visited:green;
+}
+.croissant-photo{
+    max-width: 100%;
+    border-radius: 10px;
+    display: block;
+    margin: 30px auto;
+
+}
